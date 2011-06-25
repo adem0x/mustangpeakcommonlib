@@ -1,8 +1,8 @@
-#summary Welcome to Mustangpeak EasyListview Wiki.
+#summary Welcome to Mustangpeak Common Library Wiki.
 
 = Introduction =
 
-EasyListview is a Delphi component that has been around for over 5 years and used in dozens of applications both commercial and freeware.
+Common Library is a Delphi component that has been around for over 5 years and used in dozens of applications both commercial and freeware.
 
 
 = Details =
@@ -14,6 +14,6 @@ You will also need the following all of the following components to compile Easy
 [https://code.google.com/p/mustangpeakcommonlib/ Mustangpeak EasyListview]
 
 
-It is also one of the base components for
+It is the base components for
 
 [https://code.google.com/p/mustangpeakvirtualshelltools/ VirutalShellTools]
